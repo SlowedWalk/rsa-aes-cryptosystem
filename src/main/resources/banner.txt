@@ -1,0 +1,10 @@
+${AnsiColor.BRIGHT_GREEN} ${AnsiStyle.BOLD} ${AnsiStyle.ITALIC}
+   _____ ______________    _____ ______________  ______  ____________  __
+  / ___//  _/  _/ ____/   / ___// ____/ ____/ / / / __ \/  _/_  __/\ \/ /
+  \__ \ / / / // /  ______\__ \/ __/ / /   / / / / /_/ // /  / /    \  /
+ ___/ // /_/ // /__/_____/__/ / /___/ /___/ /_/ / _, _// /  / /     / /
+/____/___/___/\____/    /____/_____/\____/\____/_/ |_/___/ /_/     /_/
+${AnsiStyle.ITALIC} ${AnsiStyle.BOLD} ${AnsiColor.BRIGHT_GREEN}
+
+${application.title} ${application.version}
+Powered by :: Spring Boot :: ${spring-boot.formatted-version}
